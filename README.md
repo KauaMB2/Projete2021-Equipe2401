@@ -8,6 +8,7 @@
 
 ## Clique na imagem para asssistir o vídeo de explicação:
 
+
 <a href="https://www.youtube.com/watch?v=TFDpEObSw-Q&t=1s"><img src="https://i.ytimg.com/vi/TFDpEObSw-Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8LoyGEr1jdtjyxCgKS--48b-GYQ" alt="Logo" width="400px;"></a>
 
 > O nosso projeto de 2021 foi uma roupa que mede condições fisiológicas, tais como: Frequência cardíaca, frequência respiratória, oxigenação do sangue, inclinação corporal e temperatura corporal. Além de medir, a roupa faz o envio dessas informações para o Ubidots(Plataforma de IoT) junto com a localização do paciente. A plataforma faz a análise dos dados e caso ocorra uma irregularidade, uma ambulância é enviada até o local e uma ligação é feita automaticamente para os responsáveis do paciente.
