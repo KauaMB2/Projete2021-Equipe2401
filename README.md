@@ -1,7 +1,5 @@
 # VSMeter
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
