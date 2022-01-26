@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 
 ## Clique na imagem para asssistir o vídeo de explicação:
 
