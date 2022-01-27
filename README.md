@@ -14,8 +14,6 @@
 
 ## Ajustes e melhorias
 
-Pontos desenvolvidos e possíveis melhoras:
-
 - [x] Frequência cardíaca
 - [x] Frequência respiratória
 - [x] Oxigenação Sanguínea
