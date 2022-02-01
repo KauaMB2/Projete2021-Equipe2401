@@ -34,5 +34,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <li>Orientador: Luiz Gustavo Torquato Villela.
 </h5>
 
+
 ## Clique na foto abaixo para acessar nosso diário de bordo
 <a href="https://www.evernote.com/shard/s523/sh/a2fa665b-b61b-06fb-f09d-73cf2bde1a05/5bce0ef42f9194defb2ecc297275e340"><img src="img\imgEvernote.png" class="img" width = 600 height = 320></a>
