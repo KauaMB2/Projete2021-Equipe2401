@@ -30,7 +30,7 @@ We thank the following people for this project:
 <li>João Francisco Torres;
 <li>Kauã Moreira Batista;
 <li>Isadora de Oliveira Rafael;
-<li>Orientador: Luiz Gustavo Torquato Villela.
+<li>Advisor: Luiz Gustavo Torquato Villela.
 </h5>
 
 
