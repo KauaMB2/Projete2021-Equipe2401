@@ -1,4 +1,4 @@
-# VSMeter
+# VSMeter - Vital Signs Meter
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
@@ -6,25 +6,24 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Projete2021-Equipe2401?style=for-the-badge)
 
-## Clique na imagem para asssistir o vídeo de explicação:
+## Click on the image below for watch our presentation video:
 
 <a href="https://www.youtube.com/watch?v=TFDpEObSw-Q&t=1s"><img src="https://i.ytimg.com/vi/TFDpEObSw-Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8LoyGEr1jdtjyxCgKS--48b-GYQ" alt="Logo" width="400px;"></a>
 
-> O nosso projeto de 2021 foi uma roupa que mede condições fisiológicas, tais como: Frequência cardíaca, frequência respiratória, oxigenação do sangue, inclinação corporal e temperatura corporal. Além de medir, a roupa faz o envio dessas informações para o Ubidots(Plataforma de IoT) junto com a localização do paciente. A plataforma faz a análise dos dados e caso ocorra uma irregularidade, uma ambulância é enviada até o local e uma ligação é feita automaticamente para os responsáveis do paciente.
+>Our 2021 project was a garment that measures physiological conditions such as: heart rate, respiratory rate, blood oxygenation, body tilt and body temperature. In addition to measuring, the clothing sends this information to Ubidots (IoT Platform) along with the patient's location. The platform analyzes the data and if an irregularity occurs, an ambulance is sent to the location and a call is automatically made to the person responsible for the patient.
 
-## Ajustes e melhorias
+## Adjustments and improvements
 
-- [x] Frequência cardíaca
-- [x] Frequência respiratória
-- [x] Oxigenação Sanguínea
-- [x] Inclinação corporal
-- [x] Temperatura Corporal
-- [x] Conexão com Ubidots(IoT)
-- [ ] Linhas condutoras
+- [x] Heart rate
+- [x] Respiratory rate
+- [x] Blood Oxygenation
+- [x] Body tilt
+- [x] Body Temperature
+- [x] Connection with Ubidots(IoT)
+- [ ] Conductive lines
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+## 🤝 Contributors
+We thank the following people for this project:
 
 <h5>
 <li>Felipe Adryan Gois;
@@ -35,5 +34,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </h5>
 
 
-## Clique na foto abaixo para acessar nosso diário de bordo
+## Click on the image below for acess our logbook:
 <a href="https://www.evernote.com/shard/s523/sh/a2fa665b-b61b-06fb-f09d-73cf2bde1a05/5bce0ef42f9194defb2ecc297275e340"><img src="img\imgEvernote.png" class="img" width = 600 height = 320></a>
